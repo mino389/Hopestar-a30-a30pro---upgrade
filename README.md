@@ -1,7 +1,7 @@
 # HƯỚNG DẪN NÂNG CẤP PHẦN CỨNG LOA DI ĐỘNG HOPESTAR A30/A30PRO.
 
 Hopestar A30 2021 là sự tiếp nối hợp lý của dòng A20. Loa 55W mang lại âm thanh tuyệt vời. Và nhờ chức năng "Bass Boost" mới, âm trầm sâu hơn. Do đó, mô hình này, trước hết, sẽ phù hợp với những người hâm mộ nhạc hip-hop và câu lạc bộ. Cũng đáng chú ý là thiết kế mới và giảm trọng lượng của loa. Loa không sợ ẩm và bụi IPX6, bạn có thể kết nối 2 loa phát nhạc bằng điện thoại thông minh với nó cùng một lúc, có bộ tản nhiệt thụ động ở hai bên giúp âm thanh trở nên to và phong phú hơn. Sạc đầu phát/điện thoại thông minh, Kết nối với PC, Kết nối với TV, Chức năng rảnh tay, chất liệu vỏ nhựa. Pin 6000 mAh tích hợp cho phép loa hoạt động mà không cần sạc lại tới 8 giờ. Tất cả các đầu nối tiếp xúc đều được bảo vệ an toàn và kín bằng phích cắm cao su. 
-
+* Homepage: http://hopestar.hk
 # THÔNG SỐ KỸ THUẬT:
 * Giao thức không dây: Bluetooth 5.0
 * Không dây: lên đến 10 m
@@ -19,4 +19,4 @@ Hopestar A30 2021 là sự tiếp nối hợp lý của dòng A20. Loa 55W mang 
 * Hỗ trợ chức năng TWS
 * Micrô tích hợp để gọi rảnh tay
 * thiếu đài phát thanh
-# 
+# HÌNH ẢNH
